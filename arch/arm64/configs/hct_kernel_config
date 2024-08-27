@@ -33,3 +33,5 @@ CONFIG_MT6360_PMU_RGBLED=y
 
 
 ### hct_custom_config_end
+CONFIG_KALLSYMS=y
+CONFIG_KALLSYMS_ALL=y
